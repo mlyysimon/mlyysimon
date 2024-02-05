@@ -7,7 +7,9 @@
 - I'm a huge fan of games and and fantasy fiction 🐲🧙‍♂️
 - Avid lover of cute things and cats 🐈✨
 
+Coding Languages:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width = "50" height = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width = "50" height = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width = "50" height = "50">
 <!---
 mlyysimon/mlyysimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
